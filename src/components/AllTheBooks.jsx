@@ -25,7 +25,7 @@ const AllTheBooks = function () {
                   <strong> Price : </strong>
                   {book.price} $
                 </Card.Text>
-                <Button variant="primary">Add On Library</Button>
+                <Button variant="success">Add to Favorites</Button>
               </Card.Body>
             </Card>
             ;
